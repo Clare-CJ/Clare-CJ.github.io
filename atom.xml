@@ -17,6 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>这是另外一篇文章</title>
+    <link href="pipick.com/lingwaiygewenha.html"/>
+    <id>pipick.com/lingwaiygewenha.html</id>
+    <published>2019-12-24T13:09:24.000Z</published>
+    <updated>2019-12-24T13:09:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是测试内容，这里开始写文字。</p><h1 id="一级标题另外的文章"><a href="#一级标题另外的文章" class="headerlink" title="一级标题另外的文章"></a>一级标题另外的文章</h1><blockquote><p>引用内容</p></blockquote><p><img src="../images/timg.jpg" alt=""></p><p>其他内容自己琢磨，编辑器右键里都有。</p>]]></content>
+    
+    <summary type="html">
+    
+      有特殊服务号的时候用英文引号引起来即可单引号
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>just-a-test</title>
     <link href="pipick.com/just-a-test.html"/>
     <id>pipick.com/just-a-test.html</id>
@@ -42,24 +60,6 @@
   </entry>
   
   <entry>
-    <title>这是另外一篇文章</title>
-    <link href="pipick.com/lingwaiygewenha.html"/>
-    <id>pipick.com/lingwaiygewenha.html</id>
-    <published>2019-12-24T13:09:24.000Z</published>
-    <updated>2019-12-24T13:09:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是测试内容，这里开始写文字。</p><h1 id="一级标题另外的文章"><a href="#一级标题另外的文章" class="headerlink" title="一级标题另外的文章"></a>一级标题另外的文章</h1><blockquote><p>引用内容</p></blockquote><p><img src="../images/timg.jpg" alt=""></p><p>其他内容自己琢磨，编辑器右键里都有。</p>]]></content>
-    
-    <summary type="html">
-    
-      有特殊服务号的时候用英文引号引起来即可单引号
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>world</title>
     <link href="pipick.com/world.html"/>
     <id>pipick.com/world.html</id>
@@ -70,33 +70,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>关于跑步这件事</title>
-    <link href="pipick.com/123123.html"/>
-    <id>pipick.com/123123.html</id>
-    <published>2017-09-05T07:15:40.000Z</published>
-    <updated>2017-10-26T07:15:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="关于跑步这件事"><a href="#关于跑步这件事" class="headerlink" title="关于跑步这件事"></a>关于跑步这件事</h1><blockquote><p>国内第一帅的运动简历</p></blockquote><p>2016年中旬开始接触跑步、爬山，常跑橘子洲头、常爬岳麓山；</p><p>2017年开始经常跑步，从半个月一次到每周一次，单次最长跑步距离25KM；</p><p>2018年下半年开始长距离跑步，15KM、20KM、25KM；</p><p>2018年7月~10月，健身3个月，主要练腹肌，开始备战深圳马拉松；</p><p>2018年10月16日，第一次参加越野跑步，梧桐山训练赛 16KM，排名第十</p><p>2018年11月1日， 第一次爬雪山，攀登四姑娘山大峰，5100米，全程体力与状态良好；</p><p>2018年12月16日，第一场马拉松，深圳马拉松全程3小时25分钟完赛；</p><p>2018年12月30日，第二场马拉松，深圳宝安全程3小时26分钟完赛</p><p>2019年4月21日，第一个50KM跑步，耗时4小时48分；</p><p>2019年5月16日，第一个百公里跑步，磨房百公里，耗时15小时55分；</p><p>2019年5月19日，第一个60KM越野，武功山竞速穿越，大雨，耗时11小时，排名第9；</p><p>2019年6月7日，第一次百公里越野，自导航自补给单挑麦理浩径100KM，耗时24小时；</p><p>2019年6月16日，第三场马拉松，贵阳马拉松全马3小时29分完赛；</p><p>2019年8月18日，每公里最快配速达到3分18秒，5公里/3分47秒；</p><p>2019年9月13日，单挑香港港岛径，40KM，耗时7小时；</p><p>2019年9月28日，单挑香港凤凰径，30KM，耗时8小时；</p><p>2019年10月27日，第四场马拉松，长沙马拉松全马3小时19分完赛；</p><p>2019年11月24日，第五场马拉松，深圳南山半马1小时40分完赛；</p><p>2019年12月 1 日，第六场马拉松，深圳宝安全程3小时55分完赛；</p><p>2019年12月15日，第七场马拉松，深圳马拉松全程3小时59分完赛；    </p>]]></content>
-    
-    <summary type="html">
-    
-      Hexo是一个快速、简洁且高效的博客框架，支持 GitHub Flavored Markdown 的所有功能；具有超快生成速度，让上百个页面在几秒内瞬间完成渲染；还拥有各式各样的插件等等。
-但是就像很多教程里面写的那样，搭建 Hexo 本地环境，需要安装 Node.js、Git 以及使用 npm 进行安装和配置。这对于毫无经验的新手来说，是一个很大的挑战。同时，由于这些环境的存在，导致如果需要更换计算机的时候，重新安装配置一个新的Hexo环境，又得花费一些功夫。
-    
-    </summary>
-    
-      <category term="运动" scheme="pipick.com/categories/%E8%BF%90%E5%8A%A8/"/>
-    
-    
-      <category term="Hexo" scheme="pipick.com/tags/Hexo/"/>
-    
-      <category term="GoodHexo" scheme="pipick.com/tags/GoodHexo/"/>
-    
-      <category term="博客建站" scheme="pipick.com/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
     
   </entry>
   
@@ -117,6 +90,33 @@
     </summary>
     
       <category term="做网站" scheme="pipick.com/categories/%E5%81%9A%E7%BD%91%E7%AB%99/"/>
+    
+    
+      <category term="Hexo" scheme="pipick.com/tags/Hexo/"/>
+    
+      <category term="GoodHexo" scheme="pipick.com/tags/GoodHexo/"/>
+    
+      <category term="博客建站" scheme="pipick.com/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于跑步这件事</title>
+    <link href="pipick.com/123123.html"/>
+    <id>pipick.com/123123.html</id>
+    <published>2017-09-05T07:15:40.000Z</published>
+    <updated>2017-10-26T07:15:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于跑步这件事"><a href="#关于跑步这件事" class="headerlink" title="关于跑步这件事"></a>关于跑步这件事</h1><blockquote><p>国内第一帅的运动简历</p></blockquote><p>2016年中旬开始接触跑步、爬山，常跑橘子洲头、常爬岳麓山；</p><p>2017年开始经常跑步，从半个月一次到每周一次，单次最长跑步距离25KM；</p><p>2018年下半年开始长距离跑步，15KM、20KM、25KM；</p><p>2018年7月~10月，健身3个月，主要练腹肌，开始备战深圳马拉松；</p><p>2018年10月16日，第一次参加越野跑步，梧桐山训练赛 16KM，排名第十</p><p>2018年11月1日， 第一次爬雪山，攀登四姑娘山大峰，5100米，全程体力与状态良好；</p><p>2018年12月16日，第一场马拉松，深圳马拉松全程3小时25分钟完赛；</p><p>2018年12月30日，第二场马拉松，深圳宝安全程3小时26分钟完赛</p><p>2019年4月21日，第一个50KM跑步，耗时4小时48分；</p><p>2019年5月16日，第一个百公里跑步，磨房百公里，耗时15小时55分；</p><p>2019年5月19日，第一个60KM越野，武功山竞速穿越，大雨，耗时11小时，排名第9；</p><p>2019年6月7日，第一次百公里越野，自导航自补给单挑麦理浩径100KM，耗时24小时；</p><p>2019年6月16日，第三场马拉松，贵阳马拉松全马3小时29分完赛；</p><p>2019年8月18日，每公里最快配速达到3分18秒，5公里/3分47秒；</p><p>2019年9月13日，单挑香港港岛径，40KM，耗时7小时；</p><p>2019年9月28日，单挑香港凤凰径，30KM，耗时8小时；</p><p>2019年10月27日，第四场马拉松，长沙马拉松全马3小时19分完赛；</p><p>2019年11月24日，第五场马拉松，深圳南山半马1小时40分完赛；</p><p>2019年12月 1 日，第六场马拉松，深圳宝安全程3小时55分完赛；</p><p>2019年12月15日，第七场马拉松，深圳马拉松全程3小时59分完赛；    </p>]]></content>
+    
+    <summary type="html">
+    
+      Hexo是一个快速、简洁且高效的博客框架，支持 GitHub Flavored Markdown 的所有功能；具有超快生成速度，让上百个页面在几秒内瞬间完成渲染；还拥有各式各样的插件等等。
+但是就像很多教程里面写的那样，搭建 Hexo 本地环境，需要安装 Node.js、Git 以及使用 npm 进行安装和配置。这对于毫无经验的新手来说，是一个很大的挑战。同时，由于这些环境的存在，导致如果需要更换计算机的时候，重新安装配置一个新的Hexo环境，又得花费一些功夫。
+    
+    </summary>
+    
+      <category term="运动" scheme="pipick.com/categories/%E8%BF%90%E5%8A%A8/"/>
     
     
       <category term="Hexo" scheme="pipick.com/tags/Hexo/"/>
