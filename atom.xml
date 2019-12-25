@@ -10,7 +10,7 @@
   <id>pipick.com/</id>
   
   <author>
-    <name>http://sobaigu.com</name>
+    <name>国内第一帅</name>
     
   </author>
   
@@ -74,33 +74,6 @@
   </entry>
   
   <entry>
-    <title>Hexo，从此开始...</title>
-    <link href="pipick.com/1233333.html"/>
-    <id>pipick.com/1233333.html</id>
-    <published>2017-09-05T07:15:40.000Z</published>
-    <updated>2017-10-26T07:15:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="上面那坨front-matter头是必须"><a href="#上面那坨front-matter头是必须" class="headerlink" title="上面那坨front matter头是必须"></a>上面那坨front matter头是必须</h1><p>要不然解析程序不认识</p><p>凯瑞甘如果你要自己在这全新建文档，那就自己补上，去别的模板李超。</p><p>就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或</p>]]></content>
-    
-    <summary type="html">
-    
-      Hexo是一个快速、简洁且高效的博客框架，支持 GitHub Flavored Markdown 的所有功能；具有超快生成速度，让上百个页面在几秒内瞬间完成渲染；还拥有各式各样的插件等等。
-但是就像很多教程里面写的那样，搭建 Hexo 本地环境，需要安装 Node.js、Git 以及使用 npm 进行安装和配置。这对于毫无经验的新手来说，是一个很大的挑战。同时，由于这些环境的存在，导致如果需要更换计算机的时候，重新安装配置一个新的Hexo环境，又得花费一些功夫。
-    
-    </summary>
-    
-      <category term="做网站" scheme="pipick.com/categories/%E5%81%9A%E7%BD%91%E7%AB%99/"/>
-    
-    
-      <category term="Hexo" scheme="pipick.com/tags/Hexo/"/>
-    
-      <category term="GoodHexo" scheme="pipick.com/tags/GoodHexo/"/>
-    
-      <category term="博客建站" scheme="pipick.com/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
     <title>关于跑步这件事</title>
     <link href="pipick.com/123123.html"/>
     <id>pipick.com/123123.html</id>
@@ -117,6 +90,33 @@
     </summary>
     
       <category term="运动" scheme="pipick.com/categories/%E8%BF%90%E5%8A%A8/"/>
+    
+    
+      <category term="Hexo" scheme="pipick.com/tags/Hexo/"/>
+    
+      <category term="GoodHexo" scheme="pipick.com/tags/GoodHexo/"/>
+    
+      <category term="博客建站" scheme="pipick.com/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo，从此开始...</title>
+    <link href="pipick.com/1233333.html"/>
+    <id>pipick.com/1233333.html</id>
+    <published>2017-09-05T07:15:40.000Z</published>
+    <updated>2017-10-26T07:15:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="上面那坨front-matter头是必须"><a href="#上面那坨front-matter头是必须" class="headerlink" title="上面那坨front matter头是必须"></a>上面那坨front matter头是必须</h1><p>要不然解析程序不认识</p><p>凯瑞甘如果你要自己在这全新建文档，那就自己补上，去别的模板李超。</p><p>就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或就是上面哈哈哈哈哈哈哈哈哈哈或或或或或或或或或或或或或或或或或</p>]]></content>
+    
+    <summary type="html">
+    
+      Hexo是一个快速、简洁且高效的博客框架，支持 GitHub Flavored Markdown 的所有功能；具有超快生成速度，让上百个页面在几秒内瞬间完成渲染；还拥有各式各样的插件等等。
+但是就像很多教程里面写的那样，搭建 Hexo 本地环境，需要安装 Node.js、Git 以及使用 npm 进行安装和配置。这对于毫无经验的新手来说，是一个很大的挑战。同时，由于这些环境的存在，导致如果需要更换计算机的时候，重新安装配置一个新的Hexo环境，又得花费一些功夫。
+    
+    </summary>
+    
+      <category term="做网站" scheme="pipick.com/categories/%E5%81%9A%E7%BD%91%E7%AB%99/"/>
     
     
       <category term="Hexo" scheme="pipick.com/tags/Hexo/"/>
