@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>pipick.com</loc>
+        <loc>http://pipick.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>pipick.com/lingwaiygewenha.html</loc>
+        <loc>http://pipick.com/2019/12/24/just-a-test/</loc>
         <lastmod>2019-12-24T13:09:24.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -15,7 +15,7 @@
     </url>
 
     <url>
-        <loc>pipick.com/just-a-test.html</loc>
+        <loc>http://pipick.com/2019/12/24/lingwaiygewenha/</loc>
         <lastmod>2019-12-24T13:09:24.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -23,7 +23,7 @@
     </url>
 
     <url>
-        <loc>pipick.com/world.html</loc>
+        <loc>http://pipick.com/2019/12/24/world/</loc>
         <lastmod>2019-12-24T10:40:14.892Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -31,7 +31,7 @@
     </url>
 
     <url>
-        <loc>pipick.com/1233333.html</loc>
+        <loc>http://pipick.com/2017/09/05/123123/</loc>
         <lastmod>2017-10-26T07:15:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -39,7 +39,7 @@
     </url>
 
     <url>
-        <loc>pipick.com/hello-world.html</loc>
+        <loc>http://pipick.com/2017/09/05/1233333/</loc>
         <lastmod>2017-10-26T07:15:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -47,7 +47,7 @@
     </url>
 
     <url>
-        <loc>pipick.com/123123.html</loc>
+        <loc>http://pipick.com/2017/09/05/hello-world/</loc>
         <lastmod>2017-10-26T07:15:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
