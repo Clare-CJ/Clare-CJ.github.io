@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>这是另外一篇文章</title>
-      <link href="/2019/12/24/lingwaiygewenha/"/>
-      <url>/2019/12/24/lingwaiygewenha/</url>
+      <title>just-a-test</title>
+      <link href="/2019/12/24/just-a-test/"/>
+      <url>/2019/12/24/just-a-test/</url>
       
-        <content type="html"><![CDATA[<p>这是测试内容，这里开始写文字。</p><h1 id="一级标题另外的文章"><a href="#一级标题另外的文章" class="headerlink" title="一级标题另外的文章"></a>一级标题另外的文章</h1><blockquote><p>引用内容</p></blockquote><p><img src="../images/timg.jpg" alt=""></p><p>其他内容自己琢磨，编辑器右键里都有。</p>]]></content>
+        <content type="html"><![CDATA[<p>这是测试内容，这里开始写文字。</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><blockquote><p>引用内容</p></blockquote><p><img src="../images/timg.jpg" alt=""></p><h1 id="来自测试"><a href="#来自测试" class="headerlink" title="来自测试"></a>来自测试</h1><blockquote><p>测试内容 test</p></blockquote>]]></content>
       
       
       
@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>just-a-test</title>
-      <link href="/2019/12/24/just-a-test/"/>
-      <url>/2019/12/24/just-a-test/</url>
+      <title>这是另外一篇文章</title>
+      <link href="/2019/12/24/lingwaiygewenha/"/>
+      <url>/2019/12/24/lingwaiygewenha/</url>
       
-        <content type="html"><![CDATA[<p>这是测试内容，这里开始写文字。</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><blockquote><p>引用内容</p></blockquote><p><img src="../images/timg.jpg" alt=""></p><h1 id="来自测试"><a href="#来自测试" class="headerlink" title="来自测试"></a>来自测试</h1><blockquote><p>测试内容 test</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p>这是测试内容，这里开始写文字。</p><h1 id="一级标题另外的文章"><a href="#一级标题另外的文章" class="headerlink" title="一级标题另外的文章"></a>一级标题另外的文章</h1><blockquote><p>引用内容</p></blockquote><p><img src="../images/timg.jpg" alt=""></p><p>其他内容自己琢磨，编辑器右键里都有。</p>]]></content>
       
       
       
@@ -43,16 +43,16 @@
     
     
     <entry>
-      <title>Hexo，从此开始...</title>
-      <link href="/2017/09/05/1233333/"/>
-      <url>/2017/09/05/1233333/</url>
+      <title>关于跑步这件事</title>
+      <link href="/2017/09/05/123123/"/>
+      <url>/2017/09/05/123123/</url>
       
-        <content type="html"><![CDATA[<h1 id="上面那坨front-matter头是必须"><a href="#上面那坨front-matter头是必须" class="headerlink" title="上面那坨front matter头是必须"></a>上面那坨front matter头是必须</h1><p>要不然解析程序不认识</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="关于跑步这件事"><a href="#关于跑步这件事" class="headerlink" title="关于跑步这件事"></a>关于跑步这件事</h1><blockquote><p>国内第一帅的运动简历</p></blockquote><p>2016年中旬开始接触跑步、爬山，常跑橘子洲头、常爬岳麓山；</p><p>2017年开始经常跑步，从半个月一次到每周一次，单次最长跑步距离25KM；</p><p>2018年下半年开始长距离跑步，15KM、20KM、25KM；</p><p>2018年7月~10月，健身3个月，主要练腹肌，开始备战深圳马拉松；</p><p>2018年10月16日，第一次参加越野跑步，梧桐山训练赛 16KM，排名第十</p><p>2018年11月1日， 第一次爬雪山，攀登四姑娘山大峰，5100米，全程体力与状态良好；</p><p>2018年12月16日，第一场马拉松，深圳马拉松全程3小时25分钟完赛；</p><p>2018年12月30日，第二场马拉松，深圳宝安全程3小时26分钟完赛</p><p>2019年4月21日，第一个50KM跑步，耗时4小时48分；</p><p>2019年5月16日，第一个百公里跑步，磨房百公里，耗时15小时55分；</p><p>2019年5月19日，第一个60KM越野，武功山竞速穿越，大雨，耗时11小时，排名第9；</p><p>2019年6月7日，第一次百公里越野，自导航自补给单挑麦理浩径100KM，耗时24小时；</p><p>2019年6月16日，第三场马拉松，贵阳马拉松全马3小时29分完赛；</p><p>2019年8月18日，每公里最快配速达到3分18秒，5公里/3分47秒；</p><p>2019年9月13日，单挑香港港岛径，40KM，耗时7小时；</p><p>2019年9月28日，单挑香港凤凰径，30KM，耗时8小时；</p><p>2019年10月27日，第四场马拉松，长沙马拉松全马3小时19分完赛；</p><p>2019年11月24日，第五场马拉松，深圳南山半马1小时40分完赛；</p><p>2019年12月 1 日，第六场马拉松，深圳宝安全程3小时55分完赛；</p><p>2019年12月15日，第七场马拉松，深圳马拉松全程3小时59分完赛；    </p>]]></content>
       
       
       <categories>
           
-          <category> 做网站 </category>
+          <category> 运动 </category>
           
       </categories>
       
@@ -72,16 +72,16 @@
     
     
     <entry>
-      <title>关于跑步这件事</title>
-      <link href="/2017/09/05/123123/"/>
-      <url>/2017/09/05/123123/</url>
+      <title>Hexo，从此开始...</title>
+      <link href="/2017/09/05/1233333/"/>
+      <url>/2017/09/05/1233333/</url>
       
-        <content type="html"><![CDATA[<h1 id="关于跑步这件事"><a href="#关于跑步这件事" class="headerlink" title="关于跑步这件事"></a>关于跑步这件事</h1><blockquote><p>国内第一帅的运动简历</p></blockquote><p>2016年中旬开始接触跑步、爬山，常跑橘子洲头、常爬岳麓山；</p><p>2017年开始经常跑步，从半个月一次到每周一次，单次最长跑步距离25KM；</p><p>2018年下半年开始长距离跑步，15KM、20KM、25KM；</p><p>2018年7月~10月，健身3个月，主要练腹肌，开始备战深圳马拉松；</p><p>2018年10月16日，第一次参加越野跑步，梧桐山训练赛 16KM，排名第十</p><p>2018年11月1日， 第一次爬雪山，攀登四姑娘山大峰，5100米，全程体力与状态良好；</p><p>2018年12月16日，第一场马拉松，深圳马拉松全程3小时25分钟完赛；</p><p>2018年12月30日，第二场马拉松，深圳宝安全程3小时26分钟完赛</p><p>2019年4月21日，第一个50KM跑步，耗时4小时48分；</p><p>2019年5月16日，第一个百公里跑步，磨房百公里，耗时15小时55分；</p><p>2019年5月19日，第一个60KM越野，武功山竞速穿越，大雨，耗时11小时，排名第9；</p><p>2019年6月7日，第一次百公里越野，自导航自补给单挑麦理浩径100KM，耗时24小时；</p><p>2019年6月16日，第三场马拉松，贵阳马拉松全马3小时29分完赛；</p><p>2019年8月18日，每公里最快配速达到3分18秒，5公里/3分47秒；</p><p>2019年9月13日，单挑香港港岛径，40KM，耗时7小时；</p><p>2019年9月28日，单挑香港凤凰径，30KM，耗时8小时；</p><p>2019年10月27日，第四场马拉松，长沙马拉松全马3小时19分完赛；</p><p>2019年11月24日，第五场马拉松，深圳南山半马1小时40分完赛；</p><p>2019年12月 1 日，第六场马拉松，深圳宝安全程3小时55分完赛；</p><p>2019年12月15日，第七场马拉松，深圳马拉松全程3小时59分完赛；    </p>]]></content>
+        <content type="html"><![CDATA[<h1 id="上面那坨front-matter头是必须"><a href="#上面那坨front-matter头是必须" class="headerlink" title="上面那坨front matter头是必须"></a>上面那坨front matter头是必须</h1><p>要不然解析程序不认识</p>]]></content>
       
       
       <categories>
           
-          <category> 运动 </category>
+          <category> 做网站 </category>
           
       </categories>
       
