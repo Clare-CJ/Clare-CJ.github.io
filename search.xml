@@ -73,35 +73,6 @@
     
     <entry>
       <title>Hexo，从此开始...</title>
-      <link href="/2017/09/05/1233333/"/>
-      <url>/2017/09/05/1233333/</url>
-      
-        <content type="html"><![CDATA[<h1 id="上面那坨front-matter头是必须"><a href="#上面那坨front-matter头是必须" class="headerlink" title="上面那坨front matter头是必须"></a>上面那坨front matter头是必须</h1><p>要不然解析程序不认识</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 做网站 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-            <tag> GoodHexo </tag>
-            
-            <tag> 博客建站 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hexo，从此开始...</title>
       <link href="/2017/09/05/hello-world/"/>
       <url>/2017/09/05/hello-world/</url>
       
